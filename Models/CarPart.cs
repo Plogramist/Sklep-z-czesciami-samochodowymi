@@ -1,4 +1,6 @@
 ﻿namespace SklepSamochodowy.Models
+
+
 {
     public class CarPart
     {

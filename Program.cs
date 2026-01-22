@@ -1,6 +1,8 @@
 ﻿using SklepSamochodowy.Data;
 using SklepSamochodowy.UI;
 
+
+
 namespace SklepSamochodowy
 {
     internal class Program

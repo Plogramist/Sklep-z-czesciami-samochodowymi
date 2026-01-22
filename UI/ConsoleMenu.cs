@@ -1,6 +1,8 @@
 ﻿using System;
 using SklepSamochodowy.Data;
 
+
+
 namespace SklepSamochodowy.UI
 {
     public class ConsoleMenu
